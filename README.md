@@ -1,4 +1,5 @@
 # Prodigy-ML-Task_5
+LinkedIn Link:-https://www.linkedin.com/feed/update/urn:li:activity:7213154723867058176/
 Food Recognition and Calorie Estimation Model
 This repository contains code for a deep learning model that can accurately recognize food items from images and estimate their calorie content. This enables users to track their dietary intake, make informed food choices, and manage their nutrition effectively.
 
